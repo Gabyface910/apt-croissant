@@ -1,0 +1,15 @@
+Package: en-croissant
+Architecture: armhf
+Version: 0.15.0
+Priority: optional
+Section: games
+Maintainer: Gabyface910 <gabyface67@gmail.com>
+Depends: libwebkit2gtk-4.1-0, libgtk-3-0, libsoup-3.0-0, libjavascriptcoregtk-4.1-0, libgdk-pixbuf-2.0-0, libglib2.0-0, libcairo2, libpango-1.0-0, libatk1.0-0, libx11-6, libxrandr2, libxcomposite1, libxdamage1, libxfixes3, libxext6, libxrender1, libxi6, libxtst6, libxkbcommon0, libwayland-client0, libwayland-egl1, libegl1, libgl1, libgstreamer1.0-0, libgstreamer-plugins-base1.0-0
+Filename: pool/main/en-croissant_0.15.0_armhf.deb
+Size: 12071180
+MD5sum: d309184a9234e9a1c2970b8df86cbc1b
+SHA1: 659a7ba6d1ca182c2b78117b00f7ae9676c3be75
+SHA256: 67df3545f08cbb02c62f55c8d4dd878993e95eb542f869f2d3c5ff0d809f2c35
+SHA512: c8910593e25fbb5c3618d1eaaaf67b4486985a20a741ec1d07a9304fc6bdded16b917ffcdaacd149bb0ae5a1b96a3613dacab85ca68e9a29d668977e27c348b9
+Description: Chess GUI built for Raspberry Pi ARM32 hardware.
+

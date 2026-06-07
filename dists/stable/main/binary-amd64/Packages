@@ -1,0 +1,16 @@
+Package: en-croissant
+Architecture: amd64
+Version: 0.15.0
+Priority: optional
+Maintainer: Francisco Salgueiro <fgcdbs@gmail.com>
+Installed-Size: 43165
+Depends: libwebkit2gtk-4.1-0, libgtk-3-0
+Filename: pool/main/en-croissant_0.15.0_amd64.deb
+Size: 17264108
+MD5sum: c303f024f8e5c45b21dd6329507253b9
+SHA1: 1232810014ba9630c378359a014ae3a82c0bb4fb
+SHA256: e749402f1fcf8c3ab368afe22f82ebb3a3eabdcb374ca5ed99bb8eea3a557073
+SHA512: 42d462740e5aea873bb2b0700db29bccebf16058a76ae1514c5e7dcfea845d674a4c913377f42edfe0aead302b20f6e0edaeedfafcd9865410e8d22ad20cbbdd
+Description: Ultimate Chess Toolkit
+ (none)
+
