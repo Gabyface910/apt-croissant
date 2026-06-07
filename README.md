@@ -1,4 +1,4 @@
-# apr-croissant
+# apt-croissant
 .deb packages for Linux users for En Croissant
 
 To use:
